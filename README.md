@@ -606,8 +606,12 @@ Ce lab constitue une base solide pour des analyses dynamiques plus avancées sur
 
 ---
 
-## 👩‍💻 Auteure
+---
 
-**Ikram Laabouki**  
-ENSA Marrakech  
-Module : Cybersécurité Mobile
+## 23. Auteure
+
+Réalisé par : Ikram Laabouki
+
+Module : Sécurité des Applications Mobiles
+
+Établissement : ENSA Marrakech
